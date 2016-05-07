@@ -1,0 +1,6 @@
+npm-debug.log
+collectimg.cmd
+
+node_modules/*
+
+test/*

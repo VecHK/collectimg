@@ -1,0 +1,14 @@
+{
+  "name": "collectimg",
+  "version": "0.0.3",
+  "description": "Collect Image to HTML",
+  "main": "lib/core.js",
+  "bin": {
+    "collectimg": "bin/collectimg.js"
+  },
+  "author": "Vec <vechk@qq.com> ",
+  "license": "MIT",
+  "dependencies": {
+    
+  }
+}
