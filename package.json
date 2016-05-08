@@ -2,13 +2,26 @@
   "name": "collectimg",
   "version": "0.0.3",
   "description": "Collect Image to HTML",
-  "main": "lib/core.js",
+  "main": "./lib/core.js",
   "bin": {
-    "collectimg": "bin/collectimg.js"
+    "collectimg": "./bin/collectimg.js"
   },
-  "author": "Vec <vechk@qq.com> ",
+  "author": "Vec <vechk@qq.com>",
   "license": "MIT",
-  "dependencies": {
-    
-  }
+  "dependencies": {},
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VecHK/collectimg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VecHK/collectimg/issues"
+  },
+  "homepage": "https://github.com/VecHK/collectimg#readme"
 }
